@@ -59,3 +59,12 @@ section#login>div#formulario{
    
 
 }
+
+div#formulario>h1{
+
+    font-size: 2em;
+}
+div#formulario>p{
+
+    font-size: 1.2em;
+}
